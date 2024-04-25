@@ -13,4 +13,4 @@ An extension which will not allow kids to use unsafe websites 👇
 - JavaScript
 
 
-[def]: ./assets/backgroundimg.jpg
+[def]: ./backgroundimg.jpg
