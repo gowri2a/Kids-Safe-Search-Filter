@@ -60,6 +60,9 @@ let blockedUrls = [
   {
     link: "pureyaoi.org",
   },
+  {
+    link: "pinterest.com",
+  },
 ];
 
 blockedUrls.forEach((element) => {
