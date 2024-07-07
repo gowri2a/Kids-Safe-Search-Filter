@@ -63,7 +63,9 @@ let blockedUrls = [
   {
     link: "wronghand.com",
   },
-  
+  {
+      link: "youtube.com",
+  },
 ];
 
 blockedUrls.forEach((element) => {
