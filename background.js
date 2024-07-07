@@ -4,13 +4,7 @@ let blockedUrls = [
     link: "liquidgeneration.com",
   },
   {
-    link: "galeon.com",
-  },
-  {
     link: "fanworkrecs.com",
-  },
-  {
-    link: "animehouse.com",
   },
   {
     link: "taremeparadise.com",
@@ -37,22 +31,10 @@ let blockedUrls = [
     link: "peachprincess.com",
   },
   {
-    link: "aimeesweet.com",
-  },
-  {
-    link: "canadahentai.com",
-  },
-  {
     link: "hirameki-int.com",
   },
   {
     link: "jlist.com",
-  },
-  {
-    link: "himeyashop.com",
-  },
-  {
-    link: "bobbieroxxs.com",
   },
   {
     link: "hentaigameszone.com",
@@ -63,6 +45,25 @@ let blockedUrls = [
   {
     link: "pinterest.com",
   },
+  {
+    link: "gregboone.com",
+  },
+  {
+    link: "gaysexcomics.com",
+  },
+  {
+    link: "comixage.com",
+  },
+    {
+    link: "bwcomics.com",
+  },
+  {
+    link: "thosedirtycomics.com",
+  },
+  {
+    link: "detectivetoons.com",
+  },
+  
 ];
 
 blockedUrls.forEach((element) => {
