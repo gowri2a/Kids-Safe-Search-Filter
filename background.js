@@ -58,7 +58,7 @@ let blockedUrls = [
     link: "purplepussy.net",
   },
   {
-    link: "mrbang.net",
+    link: "mastasia.com",
   },
   {
     link: "wronghand.com",
