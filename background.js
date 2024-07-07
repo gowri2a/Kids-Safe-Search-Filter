@@ -49,19 +49,19 @@ let blockedUrls = [
     link: "gregboone.com",
   },
   {
-    link: "gaysexcomics.com",
-  },
-  {
     link: "comixage.com",
   },
     {
     link: "bwcomics.com",
   },
   {
-    link: "thosedirtycomics.com",
+    link: "purplepussy.net",
   },
   {
-    link: "detectivetoons.com",
+    link: "mrbang.net",
+  },
+  {
+    link: "wronghand.com",
   },
   
 ];
