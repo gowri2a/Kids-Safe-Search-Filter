@@ -4,31 +4,31 @@ let blockedUrls = [
     link: "liquidgeneration.com",
   },
   {
-    link: "onlineanime.org",
+    link: "galeon.com",
   },
   {
     link: "fanworkrecs.com",
   },
   {
-    link: "freecartoonsex.com",
+    link: "animehouse.com",
   },
   {
     link: "taremeparadise.com",
   },
   {
-    link: "hentaifree.net",
+    link: "dedelind.com",
   },
   {
-    link: "jasonmeador.com",
+    link: "bettiepage.com",
   },
   {
-    link: "cutepet.org",
+    link: "thebettiepage.com",
   },
   {
     link: "shokushu.com",
   },
   {
-    link: "hentai-comics.com",
+    link: "ivannarichman.com",
   },
   {
     link: "jastusa.com",
@@ -37,7 +37,7 @@ let blockedUrls = [
     link: "peachprincess.com",
   },
   {
-    link: "g-collections.com",
+    link: "aimeesweet.com",
   },
   {
     link: "canadahentai.com",
@@ -52,13 +52,13 @@ let blockedUrls = [
     link: "himeyashop.com",
   },
   {
-    link: "pcrdist.com",
+    link: "bobbieroxxs.com",
   },
   {
     link: "hentaigameszone.com",
   },
   {
-    link: "pureyaoi.org",
+    link: "dirtyfantasies.com",
   },
   {
     link: "pinterest.com",
